@@ -6,7 +6,7 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 - 
 
 | Feature | Description | Values |
-| --- | --- |
+| --- | --- | --- |
 | `ARREST_KEY` | Randomly generated persistent ID for each arrest |
 | `ARREST_DATE` | Exact date |
 | `PD_CD` | Three digit internal classification code (more detailed than arrest_key) |
