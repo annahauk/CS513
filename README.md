@@ -25,6 +25,6 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 | `Y_COORD_CD` | |
 | `Latitude` |  |
 | `Longitude` |  |
-| `New Georeferenced Column` |  |
+| `New Georeferenced Column` | A geographical point of the form (longitude, latitude) |
 
 
