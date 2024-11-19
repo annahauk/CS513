@@ -21,10 +21,8 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 | `AGE_GROUP` | Perpetrator’s age in groups |
 | `PERP_SEX` | Perpetrator’s sex |e. F, M |
 | `PERP_RACE` | Perpetrator’s race |
-| `X_COORD_CD` | X-coordinate for New York State Plane 
-Coordinate System. Units: feet. |
-| `Y_COORD_CD` | Y-coordinate for New York State Plane 
-Coordinate System. Units: feet.|
+| `X_COORD_CD` | X-coordinate for New York State Plane Coordinate System. Units: feet. |
+| `Y_COORD_CD` | Y-coordinate for New York State Plane Coordinate System. Units: feet.|
 | `Latitude` | Latitude coordinate for Global Coordinate System. |
 | `Longitude` | Longitude coordinate for Global Coordinate System. |
 | `New Georeferenced Column` | A geographical point of the form (longitude, latitude) |
