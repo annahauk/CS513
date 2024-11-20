@@ -21,8 +21,8 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 | `AGE_GROUP` | |
 | `PERP_SEX` | |
 | `PERP_RACE` | |
-| `X_COORD_CD` | |
-| `Y_COORD_CD` | |
+| `X_COORD_CD` | Midblock X-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104) |
+| `Y_COORD_CD` | Midblock Y-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104) |
 | `Latitude` |  |
 | `Longitude` |  |
 | `New Georeferenced Column` | A geographical point of the form (longitude, latitude) |
