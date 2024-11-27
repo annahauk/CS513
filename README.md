@@ -18,15 +18,6 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 | `ARREST_BORO` | Borough of arrest. B(Bronx), S(Staten Island), K(Brooklyn), M(Manhattan), Q(Queens) |
 | `ARREST_PRECINCT` | Precinct where the arrest occurred |
 | `JURISDICTION_CODE` | Jurisdiction responsible for arrest. Jurisdiction codes 0(Patrol), 1(Transit) and 2(Housing) represent NYPD whilst codes 3 and more represent non NYPD jurisdictions |
-<<<<<<< HEAD
-| `AGE_GROUP` | |
-| `PERP_SEX` | |
-| `PERP_RACE` | |
-| `X_COORD_CD` | Midblock X-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104) |
-| `Y_COORD_CD` | Midblock Y-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104) |
-| `Latitude` |  |
-| `Longitude` |  |
-=======
 | `AGE_GROUP` | Perpetrator’s age in groups |
 | `PERP_SEX` | Perpetrator’s sex |e. F, M |
 | `PERP_RACE` | Perpetrator’s race |
@@ -34,7 +25,6 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-
 | `Y_COORD_CD` | Y-coordinate for New York State Plane Coordinate System. Units: feet.|
 | `Latitude` | Latitude coordinate for Global Coordinate System. |
 | `Longitude` | Longitude coordinate for Global Coordinate System. |
->>>>>>> 9497d65692cbaeabd9ae2d83c9947cff9c17946d
 | `New Georeferenced Column` | A geographical point of the form (longitude, latitude) |
 
 
